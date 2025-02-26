@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'cz' 
-description 'CZP GoFast Script'
+description 'Cz antiCarKill'
 version '1.0.0'
 
 client_scripts {
